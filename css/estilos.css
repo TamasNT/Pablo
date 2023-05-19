@@ -1,0 +1,68 @@
+body{
+    background: rgb(212, 209, 209);
+    font-family: "Open Sans", sans-serif;
+}
+
+.slide1{
+    background: url(../imgs/darkLight01BG.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.slide2{
+    background: url(../imgs/darkLight02BG.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top;
+}
+
+.slide3{
+    background: url(../imgs/darkLight03BG.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: bottom;
+}
+
+.slide4{
+    background: url(../imgs/dualWitheredBG.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.slide5{
+    background: url(../imgs/veronica01BG.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+form {
+    padding: 1rem;
+    font-family: 'Open Sans', sans-serif;
+}
+
+h2 {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    font-size: 2.5rem;
+    margin-bottom: 2.5rem;
+}
+
+main .form-control {
+    padding: 1rem;
+    border: none;
+    font-family: 'Open Sans', sans-serif;
+}
+
+textarea.form-control {
+    height: 150px;
+    min-height: 150px;
+    max-height: 250px;
+}
+
+.separator {
+    border-top: 1px solid #dee2e6;
+    margin: 2rem 0;
+}
